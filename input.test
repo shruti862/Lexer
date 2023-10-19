@@ -1,0 +1,7 @@
+var num = 10;
+var version = "alpha";
+const CURRENT_YEAR = 2023;
+fn add(x, y) {
+return x % y;
+}
+var name = if (x > 5) { "Stephen Fry" } else { "Hugh Laurie" };
